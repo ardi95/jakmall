@@ -1,3 +1,10 @@
+<h3>Note:</h3>
+<ul>
+	<li>setelah di clone command composer update pada terminal</li>
+	<li>command php artisan key:generate</li>
+	<li>setting .env dengan copy file .env.example dan mengarahkan ke database yang di inginkan</li>
+	<li>command php artisan migrate:refresh --seed</li>
+</ul>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
